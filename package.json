@@ -68,7 +68,7 @@
     "lint-staged": "^14.0.1",
     "prettier": "2.8.1",
     "rimraf": "^5.0.1",
-    "rollup": "^3.28.1",
+    "rollup": "^3.29.5",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-preserve-shebangs": "^0.2.0",
